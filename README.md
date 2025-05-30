@@ -11,12 +11,16 @@ Cardamom Disease Classification is a deep learning-based project developed by ou
 - **Transfer Learning with MobileNetV2**  
   Utilizes MobileNetV2 as the base architecture for efficient and accurate disease detection.
 
-- **Disease Detection**  
-  Classifies cardamom leaf images into multiple categories such as:  
-  - Phylosticta  
-  - Dry Rot  
-  - Aphid Infestation  
-  - Healthy Leaf
+- **Disease Detection**<br>
+** Healthy Leaf **
+<img src="dataset_rotated/healthy_rotated/h1_rotated_270.jpg" alt="Healthy Leaf" width="300" height="200" />
+** Aphid Disease **
+<img src="dataset_rotated/amphid_rotated/amphid1_0001_rotated_90.jpeg" alt="Aphids Leaf" width="300" />
+** Phyllosticta Disease **
+<img src="dataset_rotated/phylo_rotated/phylos1_00033_rotated_0.jpeg" alt="Phylosticta Leaf" width="300" />
+** Dry-Rot Disease **
+<img src="dataset_rotated/dry_rotated/dry11_0317_rotated_180.jpeg" alt="Dry-Rot Leaf" width="300" />
+
 
 - **Lightweight & Efficient**  
   The model is optimized for deployment on resource-constrained devices without compromising accuracy.
